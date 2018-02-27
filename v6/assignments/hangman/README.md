@@ -2,9 +2,9 @@
 
 Uppgiften går ut på att ni i par ska planera och skapa ett hänga gubbe-spel i Java och använda er utav objektorientering. <br>
 
-#### En färdig planering ska lämnas in på Söndag vecka 8!
+#### En färdig planering ska lämnas in på Söndag vecka 9!
 
-#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen Söndag vecka 9!
+#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen Söndag vecka 10!
 
 ### Planering:
 - Hur ska händelseförloppet gå till?
