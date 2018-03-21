@@ -9,7 +9,7 @@ Ni får mer än gärna använda Github!
 4. Skapa och visa en Scene med sveriges flagga.
 5. Skapa och visa en Scene med en rektangel som man kan styra med piltangenterna.
 6. Skapa och visa en Scene med en cirkel som man kan styra med WASD och som inte kan gå utanför din Scene.
-7. Skapa och visa en Scene med en rektangel som börjar på ett random ställe och faller till marken.
-8. Skapa och visa en Scene med en stutsande cirkel som kan flyttas i sidled och inte kan gå utanför din Scene.
+7. *Skapa och visa en Scene med en rektangel som börjar på ett random ställe och faller till marken.*
+8. *Skapa och visa en Scene med en stutsande cirkel som kan flyttas i sidled och inte kan gå utanför din Scene.*
 
-#### Uppgiften ska vara klar vecka 13!
+#### Uppgifterna 1-6 ska vara klar vecka 13. 7 och 8 är för de som vill/kan
