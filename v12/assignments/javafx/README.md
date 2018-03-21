@@ -12,4 +12,5 @@ Ni får mer än gärna använda Github!
 7. *Skapa och visa en Scene med en rektangel som börjar på ett random ställe och faller till marken.*
 8. *Skapa och visa en Scene med en stutsande cirkel som kan flyttas i sidled och inte kan gå utanför din Scene.*
 
-#### Uppgifterna 1-6 ska vara klar vecka 13. 7 och 8 är för de som vill/kan
+#### Uppgifterna 1-6 ska vara klar vecka 13. 
+Uppgift 7 och 8 är för de som vill/kan.
